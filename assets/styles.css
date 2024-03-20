@@ -82,6 +82,16 @@ footer{
     right: 0;
 }
 
+.marker {
+    display: inline-block;
+    position: absolute;
+    top: 135vh;
+    /* background: red; */
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+}
+
 
 img {
     max-width: 100%;
