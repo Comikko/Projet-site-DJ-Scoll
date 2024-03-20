@@ -1,22 +1,39 @@
-**Voici le site DJ Scoll qui est en rapport avec mes projets personnels.**
+# DJ Scoll Website
 
-Le site comporte un Header qui reste fixe, avec une navigation, qui permet de se rendre où l'on souhaite.
-- L'accueil permet de revenir en haut de la page, ou si l'on est sur une autre page, de revenir sur la page principale.
-- Les autres navigation, nous permette de nous rendre au titre similaire sur la page (une encre).
+Ce repository contient le code source du site web DJ Scoll, qui est lié à mes projets personnels.
 
-**Les textes des encres sont généré sans contenue adapté au titre de l'encre.** (c'est juste pour le projet)
+## Structure du Site
 
-Ensuite nous avons le slide avec trois photos différentes, il suffit d'appuyer sur le bouton correspondant au numéro de la photo que l'on souhaite, pour la visionner.
+Le site comprend les éléments suivants :
 
-Nous avons par la suite 3 photos avec une description.
+### Header
 
-**Toutes les photos on un titre si l'on passe la souris au dessus**
+- Reste fixe en haut de la page
+- Contient une navigation permettant de se déplacer facilement sur le site :
+  - L'accueil permet de revenir en haut de la page ou à la page principale
+  - Les autres liens de navigation permettent d'accéder rapidement aux sections pertinentes de la page (ancres)
 
-En déroulant la page nous avons le texte avec les encres.
+### Slide
 
-Puis nous avons le footer avec les mentions légales et les RGPD qui ouvrent une nouvelle page, tout en concervant le CSS et le Header / Footer.
-Quand nous sommes sur ces pages, nous pouvons revenir sur la page d'accueil, via Accueil, ou alors nous pouvons directement nous rendre sur les encres de la page d'accueil.
+- Présente trois photos différentes
+- Utilise des boutons pour sélectionner la photo à afficher
 
-Sur le footer nous avons pour finir, les réseaux sociaux qui nous conduisent vers la page du réseau en question (ici instagramme).
+### Photos avec Description
 
-Les SEO ont été respecté.
+- Trois photos avec une description associée
+- Les titres des photos apparaissent lorsque l'utilisateur survole la souris au-dessus
+
+### Texte avec Ancres
+
+- Le contenu principal de la page
+- Les ancres permettent de naviguer rapidement entre les différentes sections du texte
+
+### Footer
+
+- Contient les mentions légales et la politique de confidentialité (RGPD), qui ouvrent une nouvelle page tout en conservant le CSS, le Header et le Footer
+- Les liens dans le Footer permettent de revenir à l'accueil ou de se rendre directement aux ancres de la page d'accueil
+- Comprend également des liens vers les réseaux sociaux, spécifiquement Instagram
+
+## SEO
+
+Les bonnes pratiques en matière de référencement ont été suivies pour optimiser la visibilité du site sur les moteurs de recherche.
