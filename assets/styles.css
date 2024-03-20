@@ -50,6 +50,25 @@ body{
     background-attachment: local;
     margin-top: 25vh;
     padding: 0vh 4vw 0vh 4vw;
+    text-align: justify;
+}
+
+.image{
+    width: 25vw;
+    height: auto;
+}
+
+.imageblock{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.description{
+    display: flex;
+    justify-content: space-around;
+    gap: 3vw;
+    margin-left: 2vw;
 }
 
 footer{
