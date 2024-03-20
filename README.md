@@ -10,7 +10,7 @@ Ensuite nous avons le slide avec trois photos différentes, il suffit d'appuyer 
 
 Nous avons par la suite 3 photos avec une description.
 
-**Toutes les photos on un titre si l'on passe la souris au dessus**
+**Toutes les photos ont un titre si l'on passe la souris au dessus**
 
 En déroulant la page nous avons le texte avec les encres.
 
